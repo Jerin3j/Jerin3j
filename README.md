@@ -7,7 +7,7 @@
 <p align="center">
 	
 	
-1. Learning programming languages: HTML, JavaScript, C, Python, Shell, Java 
+1. Learning programming languages: HTML, JavaScript, C, Python 
  
 2. Contact me in Instagram: <a href = "www.instagram.com/jerry.3j._" target="blank">jerry.3j._</a>
 
