@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jerin Jerome Justin 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fjerinjeromejustin.ml)](https://jerinjeromejustin.ml/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://jerinjeromejustin.ml)](https://jerinjeromejustin.ml/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerin-jerome-justin/)
 [![GitHub followers](https://img.shields.io/github/followers/Jerin3j?label=Follow&style=for-the-badge&logo=github)](https://github.com/Jerin3j)
 
