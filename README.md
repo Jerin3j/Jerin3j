@@ -1,6 +1,6 @@
 # Hi there, I'm Jerin Jerome Justin 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://jerinjeromejustin.ml)](https://jerinjeromejustin.ml/)
+[![Website](https://img.shields.io/website?label=Personal&style=for-the-badge&url=https://jerinjeromejustin.ml)](https://jerinjeromejustin.ml/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerin-jerome-justin/)
 [![GitHub followers](https://img.shields.io/github/followers/Jerin3j?label=Follow&style=for-the-badge&logo=github)](https://github.com/Jerin3j)
 
@@ -19,7 +19,7 @@ I'm a Front-end Developer/React with 0 years of experience
 - [Netflix UI Clone](https://github.com/Jerin3j/Netflix-clone)
 - [Static Website](https://github.com/Jerin3j/Techno-cart-website)
 
-## Blog Posts
+## Blogs
 - [Dev.to](https://dev.to/jerin3j)
 
 ## Contact
@@ -27,3 +27,6 @@ I'm a Front-end Developer/React with 0 years of experience
 - [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
 - [Email](https://mail.google.com/mail/u/0/#inbox) 
 - [Personal Site](https://www.jerinjeromejustin.ml/) 
+
+## Now Playing
+- [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC?si=5e2a3193142042e9)
