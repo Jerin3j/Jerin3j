@@ -29,4 +29,4 @@ I'm a Front-end Developer/React with 0 years of experience
 - [Personal Site](https://www.jerinjeromejustin.ml/) 
 
 ## Now Playing
-- [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC?si=5e2a3193142042e9)
+- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/track/4woTEX1wYOTGDqNXuavlRC?si=5e2a3193142042e9)
