@@ -1,32 +1,28 @@
-# Hi there, I'm Jerin Jerome Justin 👋
+# Hi there, I'm Jerin Jerome Justin 👋  
 
-[![Website](https://img.shields.io/website?label=Personal&style=for-the-badge&url=https://jerinjeromejustin.ml)](https://jerinjeromejustin.ml/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerin-jerome-justin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://jerin3j.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerin-jerome-justin/)
 [![GitHub followers](https://img.shields.io/github/followers/Jerin3j?label=Follow&style=for-the-badge&logo=github)](https://github.com/Jerin3j)
 
-I'm a Front-end Developer/React with 0 years of experience 
+I'm a **Full-Stack Developer (MERN) & Front-end Specialist** passionate about building scalable and high-performance web applications.  
 
-## Skills and Tools
--  React Js
--  HTML5
--  Css3
--  JavaScript
--  Java 
--  C 
+## 🚀 Skills and Tools  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux  
+- **Backend:** Node.js, Express.js, Prisma, MongoDB, Firebase, Supabase  
+- **Other:** Git, RESTful APIs, Clerk, Stripe  
 
-## Recent Projects
-- [OLX Clone](https://github.com/Jerin3j/OLX-Clone)
-- [Netflix UI Clone](https://github.com/Jerin3j/Netflix-clone)
-- [Static Website](https://github.com/Jerin3j/Techno-cart-website)
+## 🔥 Recent Projects  
+- [**Job Board Website**](https://github.com/Jerin3j/JobBoard) - A TypeScript-based job portal with employer payments.  
+- [**Kanban Task Manager**](https://github.com/Jerin3j/Kanban-Board) - A real-time drag-and-drop task management system.  
+- [**URL Shortener**](https://github.com/Jerin3j/URL-Shortener) - A lightweight URL shortener built with MERN stack.  
 
-## Blogs
-- [Dev.to](https://dev.to/jerin3j)
+## ✍️ Blogs  
+- [Dev.to](https://dev.to/jerin3j)  
 
-## Contact
-- [LinkedIn](https://in.linkedin.com/in/jerin-jerome-justin)
-- [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
-- [Email](https://mail.google.com/mail/u/0/#inbox) 
-- [Personal Site](https://www.jerinjeromejustin.ml/) 
+## 📫 Contact  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://jerin3j.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerin-jerome-justin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerinjeromejustin@gmail.com)  
 
-## Now Playing
- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC?si=0dd6964b22a440cf)
+## 🎵 Now Playing  
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/)  
