@@ -9,12 +9,12 @@ I'm a **Full-Stack Developer (MERN) & Front-end Specialist** passionate about bu
 ## 🚀 Skills and Tools  
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux  
 - **Backend:** Node.js, Express.js, Prisma, MongoDB, Firebase, Supabase  
-- **Other:** Git, RESTful APIs, Clerk, Stripe  
+- **Other:** Git, RESTful APIs, Clerk, Razorpay  
 
 ## 🔥 Recent Projects  
-- [**Job Board Website**](https://github.com/Jerin3j/JobBoard) - A TypeScript-based job portal with employer payments.  
-- [**Kanban Task Manager**](https://github.com/Jerin3j/Kanban-Board) - A real-time drag-and-drop task management system.  
-- [**URL Shortener**](https://github.com/Jerin3j/URL-Shortener) - A lightweight URL shortener built with MERN stack.  
+- [**Job Board Website**](https://github.com/Jerin3j/workro-jobBoard) - Workro!: A TypeScript-based job portal with employer payments.  
+- [**Kanban Task Manager**](https://github.com/Jerin3j/flow-hub) - FlowHub: A real-time drag-and-drop task management system.  
+- [**URL Shortener**](https://github.com/Jerin3j/shortly) - Shortly: A lightweight URL shortener built with MERN stack.  
 
 ## ✍️ Blogs  
 - [Dev.to](https://dev.to/jerin3j)  
